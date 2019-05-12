@@ -1,1 +1,2 @@
-# gittutorial-edureka
+# GitTutorial-Edureka!
+This is for tutorial purpose
